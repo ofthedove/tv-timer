@@ -1,3 +1,4 @@
+# TV Timer
 TV Timer for James. I've been wanting to make 3D printed seven segment displays using RGB LEDs to get big, bright digits that don't cost a fortune. (Why are they so small, and big ones so expensive???) Thia had the idea to use them to make a timer that James can use for screen time. (He's been the oven timer but we keep the kitchen closed off from the kids some of the time.)
 
 ![TV Timer](./docs/assets/tv-timer-off.jpg)
