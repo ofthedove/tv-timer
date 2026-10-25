@@ -1,5 +1,7 @@
 TV Timer for James. I've been wanting to make 3D printed seven segment displays using RGB LEDs to get big, bright digits that don't cost a fortune. (Why are they so small, and big ones so expensive???) Thia had the idea to use them to make a timer that James can use for screen time. (He's been the oven timer but we keep the kitchen closed off from the kids some of the time.)
 
+![TV Timer](./docs/assets/tv-timer-off.jpg)
+
 The star of the show is the 3D printed body, with seven segment digits, custom indicators, and a 3x4 keypad, all 3D printed. The front and back of the case are held together with a band with a single screw at the bottom, inspired by the kidchenaid mixer design, so that the visible part of the case is entirely free of fasteners. I quite like the look of it too. The back has a hole for the USB C port on the Xiao mainboard, and a speaker grill. There's also a couple of weight compartments inside to add weight near the bottom, to improve the feel and make it less likely to slide around everywhere.
 
 Electronics:
@@ -42,3 +44,10 @@ Weights     |    0%  | Add weight to the case with plaster of paris/concrete/met
 Assemble    |   50%  | Assemble everything together
 Software    |    0%  | Here be dragons
 HASS        |    0%  | Create some fun automations/dashboards to work with the timer!
+
+## Dev Pictures
+This picture shows the digits lit up showing the time
+![TV Timer with Digits On](./docs/assets/tv-timer-clock-on.jpg)
+
+I'm pretty proud of the way the case is held together with a band and a single screw to keep the band in place.
+![TV Timer Bottom View](./docs/assets/tv-timer-bottom-screw.jpg)
